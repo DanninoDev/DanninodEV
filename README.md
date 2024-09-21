@@ -4,7 +4,7 @@
 
 
 <h2> About Me </h2>
-<img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
+<img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="500px" align="right">
 - 🔭 I’m currently working on  Soy Estudiante
   
 - 🌱 I’m currently learning Git, Java y GitHub
@@ -15,7 +15,7 @@
   
 - ⚡ Fun fact: Me gustan los girasoles.
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="32"> </h2>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 🛠 &nbsp; Lenjuages de programacion
