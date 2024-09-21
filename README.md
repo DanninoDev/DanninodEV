@@ -1,3 +1,10 @@
+# Hello there I am Viral Bhadeshiya👋
+
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 <h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
