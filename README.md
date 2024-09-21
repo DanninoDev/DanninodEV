@@ -1,7 +1,6 @@
 # Hello there I am Dannino.dev 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2501&pause=500&color=11F785&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=%3C%2F+hi+!+welcome+to+my+github+profile+%2F%3E;console.log(%22im+a+software+developer%22))](https://git.io/typing-svg)
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 
 <h2> About Me </h2>
@@ -73,3 +72,6 @@
 <a href="https://www.instagram.com/aditya_kanoi123/"><img src="https://img.shields.io/badge/-Adityakanoi123-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100008728234917"><img src="https://img.shields.io/badge/-AdityaKanoi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
+
+
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
