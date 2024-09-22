@@ -1,6 +1,6 @@
-# Hello there I am Dannino.dev 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2501&pause=500&color=11F785&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=%3C%2F+hi+!+welcome+to+my+github+profile+%2F%3E;console.log(%22im+a+software+developer%22))](https://git.io/typing-svg)
+# Hello there I am Dannino.dev 👋 <a href="https://linkedin.com/in/supunnanayakkara" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a><a href="https://instagram.com/supun___lk" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" />
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2501&pause=500&color=11F785&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=%3C%2F+hi+!+welcome+to+my+github+profile+%2F%3E;console.log(%22im+a+software+developer%22))](https://git.io/typing-svg)
 
 
 <h2> About Me </h2>
@@ -26,6 +26,8 @@
  <a href="https://dart.dev/">
     <img alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   </a>
+
+  
 
 🛠 &nbsp; Frameworks
 
