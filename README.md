@@ -12,9 +12,9 @@
   
 - 🚀 Team Javascript
 
-- 🎾 i love tennis
+- 🎾 I love tennis
   
-- 📧 contact me for mail: daeilux@gmail.com
+- 📧 Contact me for mail: daeilux@gmail.com
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="32"> </h2>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
