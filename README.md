@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2501&pause=500&color=11F785&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=%3C%2F+hi+!+welcome+to+my+github+profile+%2F%3E;console.log(%22im+a+software+developer%22))](https://git.io/typing-svg)
 
 <h2> About Me </h2>
-<img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="500px" align="right">
+<img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="400px" align="right">
 - 💻 I’m Software Engenering
   
 - 🤵 My specialty is backend and cybersecurity.
