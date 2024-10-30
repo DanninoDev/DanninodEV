@@ -13,7 +13,7 @@
   
 - 🚀 Team Javascript
 
-- 🎾 I love tennis
+- 🎾 I love play tennis
   
 - 📧 Contact me for mail: dannino.dev@gmail.com
 
