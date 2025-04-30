@@ -7,7 +7,7 @@
 
 - 💻 I’m Software Engenering
   
-- 🤵 My specialty is backend, cybersecurity and designer UI UX.
+- 🤵 My specialty is Front-end, cybersecurity and designer UI UX.
   
 - 📆 I'm building a startup that will soon be unveiled.
   
